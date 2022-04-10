@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+.items {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.circlularButton {
+  background: transparent;
+  border: none;
+  background: coral;
+  border-radius: 50%;
+}
+
